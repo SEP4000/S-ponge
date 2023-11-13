@@ -32,11 +32,11 @@
 
 ### **Consulter les informations concernant une oeuvre** 
 
-**Description** : Toutes les personnes arrivant sur le site peuvent consulter les informations du domaine public.
+**Description** : Toutes les personnes arrivant sur le site peuvent consulter les informations d'un oeuvre.
 
 **Acteurs** : Les visiteurs du site
 
-**Prérequis** : Aucun
+**Prérequis** : Choisir un oeuvre
 
 **Étapes** :
 
