@@ -26,9 +26,9 @@
 **Étapes** :
 
 1.   Se connecter sur le site web avec un compte bibliothécaire
-2.   Cliquer sur l'oeuvre à modifier
-3.   Faire les modifications
-4.   Valider les modifications
+2.   Créer une page pour la nouvelle oeuvre à importer
+3.   remplir les informations nécessaire
+5.   Valider les informations
 
 ### **Consulter les informations concernant une oeuvre** 
 
