@@ -4,12 +4,13 @@
 
 **Description** : Toutes les personnes arrivant sur le site peuvent consulter les oeuvres du domaine public.
 
-**Acteurs** : 
+**Acteurs** : Les visiteurs du site
 
-**Prérequis** :
+**Prérequis** : Aucun
 
 **Étapes** :
 
-1.   uf
-2.   
+1.  Un visiteur va sur le site
+2.  Le visiteur va sur la liste des oeuvres du domaine public
+3.  Cliquer sur une oeuvre pour pouvoir la consulter 
 
