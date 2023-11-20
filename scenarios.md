@@ -103,7 +103,7 @@
 
 **Description** : Une oeuvre en domaine public se diffuse sur le site
 
-**Acteurs** : Les bibliothécaires
+**Acteurs** : Les membres authentifié
 
 **Prérequis** : Avoir un compte authentifié et avoir un espace de disque suffisant
 
@@ -111,3 +111,44 @@
 
 1.  Le site constate qu'une nouvelle oeuvre public est aparut
 2.  Le site prévient les membres qu'une nouvelle oeuvre public est aparut
+
+
+### **Mise à jour de l’index des œuvres** 
+
+**Description** : La liste des oeuvres a été modifié et la liste des oeuvres a été mis à jour
+
+**Acteurs** : La base de données
+
+**Prérequis** : Les bibliothécaires ont ajouté et/ou modifié les oeuvres
+
+**Étapes** :
+
+1.  Le site constate que des moddifications au sein de la liste des oeuvres de la base de données a eu lieu
+2.  Le site met à jour l'index des oeuvres
+
+
+### **Consultation des rubriques** 
+
+**Description** : Consulter les 4 rubriques
+
+**Acteurs** : Membre authentifiée
+
+**Prérequis** : Avoir un compte membre authentifiée
+
+**Étapes** :
+
+1.  Le membre va dans l'entête du site
+2.  Cliquer sur la rubrique où on veut aller
+
+### **Consultation de la rubrique « Fond commun »** 
+
+**Description** : Consulter la rubrique « Fond commun »
+
+**Acteurs** : Membre authentifiée
+
+**Prérequis** : Avoir un compte membre authentifiée
+
+**Étapes** :
+
+1.  Le membre va dans l'entête du site
+2.  Cliquer sur la rubrique « Fond commun »
