@@ -8,5 +8,6 @@
 
 **Étapes** :
 
-1.  Le site constate que des moddifications au sein de la liste des oeuvres de la base de données a eu lieu
-2.  Le site met à jour l'index des oeuvres
+1.  Le bibliothécaire a modifié des oeuvres et validé leur modification
+2.  Le site constate que des moddifications au sein de la liste des oeuvres de la base de données a eu lieu
+3.  Le site met à jour l'index des oeuvres
