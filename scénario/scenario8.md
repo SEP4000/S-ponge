@@ -10,4 +10,5 @@
 
 1.  Le bibliothécaire a modifié des oeuvres et validé leur modification
 2.  Le site constate que des modifications au sein de la liste des oeuvres de la base de données a eu lieu
-3.  Le site met à jour l'index des oeuvres
+3.  La base de donnée met à jour les oeuvres
+4.  Le site met à jour l'index des oeuvres
