@@ -11,4 +11,5 @@
 1.  Se connecter en tant que membre
 3.  Le membre va dans l'entête du site
 4.  Cliquer sur l'une des 4 rubriques où on veut aller
+5.  Aller sur la page de l'une des 4 rubriques
 
