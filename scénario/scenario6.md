@@ -13,4 +13,4 @@
 3.  On clique sur modifier
 4.  On choisit de changer le domaine qui est priver en public
 5.  On clique sur accepter
-6.  Le site web met à jour l'oeuvre pour le chnager en domaine public
+6.  Le site web met à jour l'oeuvre pour le changer en domaine public
