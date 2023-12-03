@@ -10,3 +10,4 @@
 
 1.  Le membre va dans l'entête du site
 2.  Cliquer sur la rubrique « Fond commun »
+3.  Aller sur la page de Fond Commun
