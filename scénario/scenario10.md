@@ -8,6 +8,7 @@
 
 **Étapes** :
 
-1.  Le membre va dans l'entête du site
-2.  Cliquer sur la rubrique « Fond commun »
-3.  Aller sur la page de Fond Commun
+1.  Se connecter en tant que membres
+2.  Le membre va dans l'entête du site
+3.  Cliquer sur la rubrique « Fond commun »
+4.  Aller sur la page de Fond Commun
