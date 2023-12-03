@@ -17,4 +17,18 @@
 7. Le membre confirme la diffusion de l'œuvre.
 8. L'application enregistre l'œuvre dans la bibliothèque accessible au public.
 
+**Scénarios alternatifs** :
+
+Si le fichier téléchargé n'est pas au format requis :
+
+L'application informe le membre du format requis pour la diffusion de l'œuvre libre de droits et l'invite à télécharger à nouveau le fichier dans le format approprié.
+Si les informations fournies sont incomplètes ou incorrectes :
+
+L'application informe le membre des champs manquants ou incorrects et l'invite à corriger les informations avant de procéder à la diffusion.
+
+**Scénarios d'erreurs** :
+
+Erreur de stockage du fichier téléchargé :
+L'application affiche un message d'erreur et invite le membre à réessayer de télécharger le fichier. Si le problème persiste, l'utilisateur est encouragé à contacter le support technique pour obtenir de l'aide.
+
 
