@@ -2,7 +2,7 @@
 
 13 novembre 2023 : Faire la decription du projet avec le ReadMe.
 
-27 novembre 2023 : Faire le scénarios de de chaque utilité décrite.
+27 novembre 2023 : Faire le scénario de chaque utilité décrite.
 
 4 décembre 2023 : Faire les diagrammes d'activité de chaque scénarios.
 
