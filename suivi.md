@@ -8,3 +8,5 @@
 
 11 décembre 2023 : Faire les diagrammes de séquence de chaque scénarios et faire 
                    un diagramme complet regroupant tout les scénarios dans un même diagramme de séquence.
+
+18 décembre 2023 : Faire la conception d'un diagramme et finir les détails.
